@@ -19,6 +19,8 @@ pub mod python_env;
 pub mod rbac;
 pub mod sandbox;
 pub mod session;
+pub mod skills;
+pub mod team;
 pub mod tools;
 pub mod types;
 
